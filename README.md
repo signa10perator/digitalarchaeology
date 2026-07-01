@@ -1,2 +1,11 @@
-# digitalarchaeology
-Preserving the evolution of computing one artifact at a time. MentiSystema: Digital Archaeology is a curated museum of operating systems, software, and computing history, documented through research, virtualization, and technical analysis for future generations.
+# MentiSystema: Digital Archaeology
+
+Computing is built on layers.
+
+This archive exists to preserve those layers through reproducible documentation, technical analysis, and historical context.
+
+Artifacts are curated, verified, and documented before they are exhibited.
+
+This is not a software repository.
+
+It is a museum.
